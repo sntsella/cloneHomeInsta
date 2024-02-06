@@ -1,9 +1,9 @@
-# Clone da home de login do Instagram
+<h1 align="center">Clone da home de login do Instagram</h1>
 
-## Descrição
+<h2 align="center">Descrição</h2>
 Este é um projeto de clone da tela de login do Instagram, desenvolvido com o objetivo de aprimorar as habilidades em desenvolvimento web, HTML e CSS.
 
-## Funcionalidades Implementadas
+<h2 align="center">Funcionalidas Implementadas</h2>
 - Replica a interface de login do Instagram
 - Campos de entrada para nome de usuário e senha
 - Design responsivo para diferentes dispositivos
